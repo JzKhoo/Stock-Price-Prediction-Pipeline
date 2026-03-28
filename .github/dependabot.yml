@@ -13,6 +13,6 @@ updates:
 
   # Enable version updates for python
   - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/stock_price_indicator" # Location of package manifests
+    directory: "stock_price_indicator" # Location of package manifests
     schedule:
       interval: "weekly"
