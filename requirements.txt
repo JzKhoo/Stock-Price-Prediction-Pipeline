@@ -4,7 +4,7 @@ Flask_Cors==6.0.2
 langdetect==1.0.9
 matplotlib==3.10.9
 nltk==3.9.4
-numpy==2.4.4
+numpy==2.4.6
 pandas==3.0.3
 protobuf==7.34.1
 Requests==2.34.2
