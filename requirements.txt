@@ -6,7 +6,7 @@ matplotlib==3.11.2
 nltk==3.10.3
 numpy==2.5.3
 pandas==3.0.6
-protobuf==7.36.1
+protobuf==7.36.2
 Requests==2.34.2
 scikit_learn==1.9.1
 textblob==0.20.1
